@@ -28,7 +28,6 @@ Berikut merupakan kalender balap Speed Star Championship 2026:
 | 2     | 20 November 2026 | Laguna Seca, United State | 20:00 UTC+7 |
 | 3     | 4 Desember 2026  | Bathurst, Australia       | 20:00 UTC+7 |
 | 4     | 18 Desember 2026 | Interlagos, Brasil        | 20:00 UTC+7 |
-| 5     | 8 Januari 2027   | Monza, Italia             | 20:00 UTC+7 |
 
 _Jadwal dapat berubah sesuai situasi dan kondisi._
 
