@@ -28,7 +28,6 @@ The race calendar for Speed Star Championship 2026 is as follows:
 | 2 | 20 November 2026 | Laguna Seca, United States | 20:00 UTC+7 |
 | 3 | 4 December 2026 | Bathurst, Australia | 20:00 UTC+7 |
 | 4 | 18 December 2026 | Interlagos, Brazil | 20:00 UTC+7 |
-| 5 | 8 January 2027 | Monza, Italy | 20:00 UTC+7 |
 
 *The schedule may change depending on circumstances.*
 
