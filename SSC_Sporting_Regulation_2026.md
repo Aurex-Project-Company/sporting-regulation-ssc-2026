@@ -223,7 +223,7 @@ _Tidak ada spasi pada nama folder, gunakan garis bawah (underscore) untuk member
 
 Aturan nomor balap pada livery sebagai berikut:
 
-1. Numberplate akan disediakan oleh panitia, peserta hanya mengubah bagian nomor saja. Font yang digunakan ada font yang disediakan oleh panitia yaitu **Bebas Font**.
+1. Numberplate akan disediakan oleh panitia, peserta hanya mengubah bagian nomor saja. Font yang digunakan ada font yang disediakan oleh panitia yaitu **[Bebas Neue Font](https://drive.google.com/file/d/12GGUk3CLTLGe-lWHUQY1hotmLwiUWsl9/view?usp=sharing)**.
 2. Sistem penulisan angka yang digunakan yaitu sistem yang sering digunakan, Arabic numerals (terdiri dari simbol karakter 1,2,3,4,5,6,7,8,9,0).
 3. Peletakan nomor balap terdapat di depan mobil, dan bagian samping kedua sisi pada sayap belakang mobil.
 4. Referensi aturan penempatan nomor balap sebagai berikut.
