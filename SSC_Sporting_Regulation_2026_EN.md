@@ -221,7 +221,7 @@ Example:
 
 The following rules apply to racing numbers:
 
-1. Drivers may choose any font for their racing number, but the number must be clear and easy to read. Do not use fonts that are difficult to read.
+1. The number plate will be provided by the organizers; participants only need to change the number section. The font used must be the one provided by the organizers, which is **Bebas Font**.
 2. Racing numbers must use standard Arabic numerals: **0, 1, 2, 3, 4, 5, 6, 7, 8, and 9**.
 3. Racing numbers must be placed on the front of the car and on both sides of the rear wing.
 4. See the images below for racing number placement.
