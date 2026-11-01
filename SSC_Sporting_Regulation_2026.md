@@ -118,7 +118,7 @@ Sesi practice akan dibuka pada minggu balap, tujuannya agar setiap tim mendapatk
 
 ## 3. Sesi Pre-Qualifying
 
-Sesi pre-qualifying akan dibuka ketika jumlah pendaftar melebihi jumlah ketentuan slot entry. Sesi ini akan dibuka pada hari kamis selama 2 jam. Para pembalap mencatatkan waktu terbaiknya agar bisa lolos ke sesi berikutnya. Hanya 30 pembalap yang dapat lolos ke sesi berikutnya.
+Sesi pre-qualifying akan dibuka ketika jumlah pendaftar melebihi jumlah ketentuan slot entry. Sesi ini akan dibuka pada hari kamis selama 2 jam. Para pembalap mencatatkan waktu terbaiknya agar bisa lolos ke sesi berikutnya. Hanya 36 pembalap yang dapat lolos ke sesi berikutnya.
 
 Sesi Pre-qualifying dilakukan dengan cara single qualifying di server.
 
@@ -330,12 +330,13 @@ Sistem pemberian penalti poin sebagai berikut:
 1. Setiap 5 detik penalti atau mendapatkan drive through akan mendapatkan **2 penalti poin**.
 2. Setiap stop and go dan pengurangan lap akan mendapatkan **4 penalti poin**.
 3. Diskualifikasi akan mendapatkan **6 penalti poin**.
+4. Lolos Pre-Qualifying tapi tidak mengikuti race akan mendapatkan **6 penalti poin**.
 
 Adapun setiap total penalti poin yang didapat akan mendapatkan peringatan seperti di bawah ini:
 
 1. Pembalap yang mendapat **8 penalti poin** akan mendapat peringatan pertama.
 2. Pembalap yang mendapat **10 penalti poin** akan mendapat peringatan kedua.
-3. Pembalap yang mendapat **13 penalti poin** akan dikenakan **Race Ban** tidak boleh mengikuti balapan sebanyak 1 kali.
+3. Pembalap yang mendapat **12 penalti poin** akan dikenakan **Race Ban** tidak boleh mengikuti balapan sebanyak 1 kali.
 
 ## 3. Daftar Pelanggaran
 
