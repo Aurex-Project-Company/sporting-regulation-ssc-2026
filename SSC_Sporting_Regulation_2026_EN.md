@@ -118,7 +118,7 @@ Practice sessions will be available for three days during race week. These sessi
 
 ## 3. Pre-Qualifying Session
 
-Pre-qualifying will be held when the number of registered drivers exceeds the available entry slots. It will take place on Thursday and last **two hours**. Drivers must set their fastest lap times to qualify for the next session. Only **30 drivers** will advance.
+Pre-qualifying will be held when the number of registered drivers exceeds the available entry slots. It will take place on Thursday and last **two hours**. Drivers must set their fastest lap times to qualify for the next session. Only **36 drivers** will advance.
 
 Pre-qualifying will use a single-qualifying format on the server.
 
@@ -326,12 +326,13 @@ Penalty points are given as follows:
 1. Every **5 seconds of time penalty**, or a **drive-through penalty**, results in **2 penalty points**.
 2. A **stop-and-go penalty** or **lap deduction** results in **4 penalty points**.
 3. **Disqualification** results in **6 penalty points**.
+4. Passing Pre-Qualifying but not taking part in the race will result in a **6 point penalty**.
 
 Drivers will receive warnings or sanctions based on their total penalty points:
 
 1. At **8 penalty points**, a driver receives a **first warning**.
 2. At **10 penalty points**, a driver receives a **second warning**.
-3. At **13 penalty points**, a driver receives a **one-race ban** and is not allowed to compete in one race.
+3. At **12 penalty points**, a driver receives a **one-race ban** and is not allowed to compete in one race.
 
 ## 3. List of Violations
 
