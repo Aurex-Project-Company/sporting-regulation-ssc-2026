@@ -327,14 +327,14 @@ Penalti poin akan diberikan kepada setiap pembalap yang mendapatkan penalti. Pen
 
 Sistem pemberian penalti poin sebagai berikut:
 
-1. Setiap 5 detik penalti atau mendapatkan drive through akan mendapatkan **2 penalti poin**.
-2. Setiap stop and go dan pengurangan lap akan mendapatkan **4 penalti poin**.
+1. Setiap 5 detik penalti atau mendapatkan drive through akan mendapatkan **1 penalti poin**.
+2. Setiap stop and go akan mendapatkan **4 penalti poin**.
 3. Diskualifikasi akan mendapatkan **6 penalti poin**.
 4. Lolos Pre-Qualifying tapi tidak mengikuti race akan mendapatkan **6 penalti poin**.
 
 Adapun setiap total penalti poin yang didapat akan mendapatkan peringatan seperti di bawah ini:
 
-1. Pembalap yang mendapat **8 penalti poin** akan mendapat peringatan pertama.
+1. Pembalap yang mendapat **6 penalti poin** akan mendapat peringatan pertama.
 2. Pembalap yang mendapat **10 penalti poin** akan mendapat peringatan kedua.
 3. Pembalap yang mendapat **12 penalti poin** akan dikenakan **Race Ban** tidak boleh mengikuti balapan sebanyak 1 kali.
 
