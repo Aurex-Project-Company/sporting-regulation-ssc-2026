@@ -325,10 +325,10 @@ Penalty points are given as follows:
 
 1. Every **5 seconds of time penalty**, or a **drive-through penalty**, results in **1 penalty points**.
 2. A **stop-and-go penalty** results in **4 penalty points**.
-3. **Disqualification** results in **6 penalty points**.
-4. Passing Pre-Qualifying but not taking part in the race will result in a **6 point penalty**.
+3. **Disqualification** results in **10 penalty points**.
+4. Passing Pre-Qualifying but not taking part in the race will result in a **15 point penalty**.
 
-Drivers will receive warnings or sanctions based on their total penalty points:
+As for each total point obtained, it will be multiplied by **0.4** and rounded up to get a warning as below:
 
 1. At **6 penalty points**, a driver receives a **first warning**.
 2. At **10 penalty points**, a driver receives a **second warning**.
